@@ -11,5 +11,8 @@
 
 :warning: **Se il tuo talk verrà accettato, dovrai fornirci le slide definitive almeno una settimana prima.**
 
+## Contribuisci 
+Vedi [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Contatti
 **info@milanojs.com**
