@@ -2,6 +2,8 @@
 
 > Questo repository contiene i suggerimenti per proporsi come speaker ad un incontro di Milano JS.
 
+* se pubblichi del codice, assicurati che da lontano sia leggibile
+
 ## Cosa ci serve avere subito
 > Quando ci manderai la tua proposta, ti chiediamo di inserire le seguenti informazioni
 
