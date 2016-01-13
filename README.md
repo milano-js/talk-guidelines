@@ -13,7 +13,7 @@ Manda una e-mail a info@milanojs.com con le seguenti informazioni
 :warning: **Se il tuo talk verrà accettato, dovrai fornirci le slide definitive almeno una settimana prima.**
 
 ## Alcuni suggerimenti:
-- Metti poche righe di codice nelle slide e ad una grandezza adeguata per essere letto anche a distanza
+- Metti poche righe di codice nelle slide e usa una dimensione del font adeguata per essere letto anche da una certa distanza
 - Non riempire le slide di testo, la gente seguirà meglio quello che stai dicendo
 
 ## Preparazione di un talk:
@@ -25,4 +25,5 @@ Vedi [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contatti:
 **info@milanojs.com**
+
 [Canale Slack](http://milanojs.herokuapp.com)
