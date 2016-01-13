@@ -2,7 +2,7 @@
 
 > Questo repository contiene i suggerimenti per proporsi come speaker ad un incontro di Milano JS.
 
-## Come proporti
+## Come proporti:
 Manda una e-mail a info@milanojs.com con le seguenti informazioni
 
 * titolo del talk (anche provvisorio) 
@@ -12,12 +12,17 @@ Manda una e-mail a info@milanojs.com con le seguenti informazioni
 
 :warning: **Se il tuo talk verrà accettato, dovrai fornirci le slide definitive almeno una settimana prima.**
 
+## Alcuni suggerimenti:
+- Metti poche righe di codice nelle slide e ad una grandezza adeguata per essere letto anche a distanza
+- Non riempire le slide di testo, la gente seguirà meglio quello che stai dicendo
+
 ## Preparazione di un talk:
 Preparare un talk e parlare davanti ad un pubblico non è mai facile.
-Per questo motivo, vi consigliamo caldamente di dare un occhiata a [speaking.io](http://speaking.io/) per imparare qualcosa di nuovo e per farvi inspirare.
+Per questo motivo, ti consigliamo caldamente di dare un occhiata a [speaking.io](http://speaking.io/) per imparare qualcosa di nuovo e per farti inspirare.
 
-## Contribuisci 
+## Contribuisci:
 Vedi [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Contatti
+## Contatti:
 **info@milanojs.com**
+[Canale Slack](http://milanojs.herokuapp.com)
