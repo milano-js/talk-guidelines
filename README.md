@@ -10,7 +10,7 @@ Manda una e-mail a info@milanojs.com con le seguenti informazioni
 * una tua breve biografia
 * i link ai tuoi account social (i.e. Twitter, Github, blog)
 
-:warning: **Se il tuo talk verrà accettato, dovrai fornirci le slide definitive almeno una settimana prima.**
+:warning: **Se il tuo talk verrà accettato, dovrai fornirci le slide definitive almeno due settimane prima.**
 
 :no_entry_sign: **Ti preghiamo di NON fare annunci di lavoro durante il talk.**
 
